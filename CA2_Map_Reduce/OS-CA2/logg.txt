@@ -1,0 +1,22 @@
+Facility Registered
+Building Thea Registered
+Building Ein Registered
+Building Jeff Registered
+Electricity for house Jeff is being calculated
+Electricity for house Thea is being calculated
+Electricity for house Ein is being calculated
+Result for Electricity in Jeff: 108367
+Result for Electricity in Ein: 108732
+Result for Electricity in Thea: 108796
+Gas for house Thea is being calculated
+Gas for house Jeff is being calculated
+Gas for house Ein is being calculated
+Result for Gas in Thea: 111555
+Result for Gas in Ein: 107803
+Result for Gas in Jeff: 108856
+Water for house Jeff is being calculated
+Water for house Ein is being calculated
+Water for house Thea is being calculated
+Result for Water in Ein: 107997
+Result for Water in Jeff: 107298
+Result for Water in Thea: 107263
