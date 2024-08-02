@@ -1,6 +1,6 @@
-# Operating Systems Projects Spring 2023
+# Operating Systems Projects Fall 2023
 
-This repository contains a collection of projects completed as part of the Operating Systems Course at UT-CE in SP-2023. These projects cover various aspects of operating systems, including socket programming, Map-Reduce, and serial/parallel processing.
+This repository contains a collection of projects completed as part of the Operating Systems Course at UT-CE in FALL-2023. These projects cover various aspects of operating systems, including socket programming, Map-Reduce, and serial/parallel processing.
 
 ## Project Descriptions
 
